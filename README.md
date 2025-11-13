@@ -7,3 +7,6 @@ Notes
 openssl x509 -inform DER -in CSCA.cer -out CSCA.pem
 cat *.pem > masterList.pem
 ```
+
+
+https://www.icao.int/icao-pkd/epassport-validation-roadmap-tool-access
